@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>WenBo丨星空灬</title>
+  <title>beyond_site</title>
   
   
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="https://wutao123456.github.io/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="https://wutao123456.github.io/"/>
   <updated>2021-04-10T06:05:46.544Z</updated>
-  <id>http://example.com/</id>
+  <id>https://wutao123456.github.io/</id>
   
   <author>
-    <name>wutao</name>
+    <name>beyond</name>
     
   </author>
   
@@ -18,8 +18,8 @@
   
   <entry>
     <title>my-first-blog</title>
-    <link href="http://example.com/2021/04/10/my-first-blog/"/>
-    <id>http://example.com/2021/04/10/my-first-blog/</id>
+    <link href="https://wutao123456.github.io/2021/04/10/my-first-blog/"/>
+    <id>https://wutao123456.github.io/2021/04/10/my-first-blog/</id>
     <published>2021-04-10T06:03:32.000Z</published>
     <updated>2021-04-10T06:05:46.544Z</updated>
     
@@ -29,18 +29,18 @@
     
     
     
-    <category term="tag1" scheme="http://example.com/tags/tag1/"/>
+    <category term="tag1" scheme="https://wutao123456.github.io/tags/tag1/"/>
     
-    <category term="tag2" scheme="http://example.com/tags/tag2/"/>
+    <category term="tag2" scheme="https://wutao123456.github.io/tags/tag2/"/>
     
-    <category term="tag3" scheme="http://example.com/tags/tag3/"/>
+    <category term="tag3" scheme="https://wutao123456.github.io/tags/tag3/"/>
     
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="http://example.com/2021/04/10/hello-world/"/>
-    <id>http://example.com/2021/04/10/hello-world/</id>
+    <link href="https://wutao123456.github.io/2021/04/10/hello-world/"/>
+    <id>https://wutao123456.github.io/2021/04/10/hello-world/</id>
     <published>2021-04-09T17:07:26.410Z</published>
     <updated>2021-04-09T17:07:26.410Z</updated>
     
